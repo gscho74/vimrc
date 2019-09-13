@@ -1,4 +1,4 @@
-" 새로운 라인을 시작할 때, smart 하게 auto indentation 을 수행한다
+"새로운 라인을 시작할 때, smart 하게 auto indentation 을 수행한다
 set smartindent
 
 "tab을 눌렀을때 인식하는 칸 수
